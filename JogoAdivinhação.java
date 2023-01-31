@@ -1,8 +1,6 @@
-package eve.primeirasemana;
-
 import java.util.Random;
 import java.util.Scanner;
-public class Adivinhacao2 {
+public class Adivinhacao {
 
     public static void main(String[] args) {
         Random gerador = new Random();
