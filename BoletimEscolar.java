@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class BoletinEscolar {
+public class BoletimEscolar {
 
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
