@@ -1,5 +1,3 @@
-package eve.primeirasemana;
-
 import java.util.Scanner;
 public class BoletinEscolar {
 
