@@ -1,2 +1,2 @@
 # first-codes
-Meus primeiros códigos.
+Meus primeiros códigos iniciando na carreira de desenvolvedora back end.
